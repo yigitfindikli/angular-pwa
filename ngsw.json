@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1618760680343,
+  "timestamp": 1618761191479,
   "index": "/angular-pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/angular-pwa/favicon.ico",
         "/angular-pwa/index.html",
-        "/angular-pwa/main.7f370e304c2101f9f4a1.js",
+        "/angular-pwa/main.cf6de7513a5518da7d1b.js",
         "/angular-pwa/manifest.webmanifest",
         "/angular-pwa/polyfills.94daefd414b8355106ab.js",
         "/angular-pwa/runtime.7b63b9fd40098a2e8207.js",
@@ -29,6 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/angular-pwa/assets/data/products.json",
         "/angular-pwa/assets/icons/icon-128x128.png",
         "/angular-pwa/assets/icons/icon-144x144.png",
         "/angular-pwa/assets/icons/icon-152x152.png",
@@ -49,6 +50,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/angular-pwa/assets/data/products.json": "bf6f6cf848f9c6e62be32d493ac256fb7fc9e57a",
     "/angular-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/angular-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/angular-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -60,8 +62,8 @@
     "/angular-pwa/color.6441e63a57ccc5105bad.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
     "/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/angular-pwa/hue.f8505bd4d6f3e3aa435b.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "/angular-pwa/index.html": "dda97435723100f57bf4a925a133d2ff7a981812",
-    "/angular-pwa/main.7f370e304c2101f9f4a1.js": "5c87d8af474b8b6c9d322271ea26bef52b74491c",
+    "/angular-pwa/index.html": "7afd66a406d74c95e2bc3e070c80f729f666728a",
+    "/angular-pwa/main.cf6de7513a5518da7d1b.js": "3a0d4bdb7d87cee8367e4e2b4659b2db962813e2",
     "/angular-pwa/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
     "/angular-pwa/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "/angular-pwa/primeicons.3a0d4a58da62cf7c55bb.ttf": "13889b5e1915891dd548d6b71c1cccddb469e13d",
