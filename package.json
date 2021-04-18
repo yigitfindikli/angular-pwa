@@ -1,12 +1,12 @@
 {
-  "name": "angular-pwa",
+  "name": "primeng-pwa-quickstart-cli",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "start-pwa": "ng build --prod && http-server -p 8080 -c-1 dist/angular-pwa",
-    "predeploy": "ng build --prod --base-href=/angular-pwa/",
-    "deploy": "npx gh-pages -d dist/angular-pwa",
+    "start-pwa": "ng build --prod && http-server -p 8080 -c-1 dist/primeng-pwa-quickstart-cli",
+    "predeploy": "ng build --prod --base-href=/primeng-pwa-quickstart-cli/",
+    "deploy": "npx gh-pages -d dist/primeng-pwa-quickstart-cli",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
